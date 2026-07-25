@@ -4,7 +4,7 @@ Computer Science undergraduate majoring in Data Science and Data Analytics, pass
 Here are some ideas to get you started:
 
 <p align="center">
-  <img src="./coding.gif" width="400" alt="Coding Animation" align="right">
+  <img src="./coding.gif" width="600" alt="Coding Animation" align="center">
 </p>
 
 <!--
