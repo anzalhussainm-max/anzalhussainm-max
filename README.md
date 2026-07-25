@@ -1,4 +1,4 @@
-![Logo](https://github.com/anzalhussainm-max/anzalhussainm-max/blob/main/GitHub%20Banner.png)
+![Logo](https://github.com/anzalhussainm-max/anzalhussainm-max/blob/main/GitHub.png)
 
 ## Hi 👋 I'm Anzal Hussain
 
