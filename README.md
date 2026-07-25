@@ -1,3 +1,5 @@
+![Logo](https://github.com/anzalhussainm-max/anzalhussainm-max/blob/main/GitHub%20Banner.png)
+
 ## Hi 👋 I'm Anzal Hussain
 
 Computer Science undergraduate majoring in Data Science and Data Analytics, passionate about transforming data into actionable insights and building intelligent, data-driven solutions.
