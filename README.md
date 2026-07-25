@@ -28,28 +28,12 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,bootstrap,nodejs,mysql,git,github,vscode" />
 </p>
 
-### 📊 Data Science & Analytics
-- 🐍 Python
-- 📊 Pandas
-- 🔢 NumPy
-- 🤖 Scikit-learn
-- 📚 Machine Learning
-- 🧠 Deep Learning
-- 🧠 TensorFlow
-- 🔥 PyTorch
-- 📉 Data Visualization
-- 📉 Data Analysis
-- 📈 Power BI
-- 🗃️ SQL
-- 📈 Advanced Excel
-- 📋 Microsoft Excel
-- 📑 Excel Dashboards
-- 📊 Data Analysis with Excel
-- 📉 Excel Data Visualization
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🟣 Bootstrap
-- 🌿 Git
-- 🐙 GitHub
-- 💡 Problem Solving
+##### 💻 Tech Stack
+
+| Category | Skills |
+|----------|--------|
+| 🤖 AI & ML | Machine Learning, Deep Learning, TensorFlow, PyTorch |
+| 📊 Data Science | Python, Pandas, NumPy, Matplot, Seaborn, Scikit-learn, Data Visualization |
+| 📈 Analytics | SQL, Power BI, Advanced Excel, Data Visualization |
+| 🌐 Web | HTML, CSS, JavaScript, Bootstrap |
+| 🛠️ Tools | Git, GitHub, VS Code |
