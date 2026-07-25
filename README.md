@@ -1,14 +1,14 @@
 ## Hi 👋 I'm Anzal Hussain
 
-
+Computer Science undergraduate majoring in Data Science and Data Analytics, passionate about transforming data into actionable insights and building intelligent, data-driven solutions.
+Here are some ideas to get you started:
 
 <p align="center">
   <img src="./coding.gif" width="400" alt="Coding Animation" align="right">
 </p>
 
 <!--
-Computer Science undergraduate majoring in Data Science and Data Analytics, passionate about transforming data into actionable insights and building intelligent, data-driven solutions.
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ... Multiple Projects
 - 🌱 I’m currently learning ... Advance Excel PowerBi and SQL for Creating Professional Dashboards.
