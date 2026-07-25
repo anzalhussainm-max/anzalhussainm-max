@@ -1,5 +1,11 @@
 ## Hi 👋 I'm Anzal Hussain
 
+
+
+<p align="center">
+  <img src="./coding.gif" width="600" alt="Coding Animation">
+</p>
+
 <!--
 Computer Science undergraduate majoring in Data Science and Data Analytics, passionate about transforming data into actionable insights and building intelligent, data-driven solutions.
 Here are some ideas to get you started:
