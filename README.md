@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 | 📊 Data Science | Python, Pandas, NumPy, Matplot, Seaborn, Scikit-learn, Data Visualization |
 | 📈 Analytics | SQL, Power BI, Advanced Excel, Data Visualization |
 | 🌐 Web | HTML, CSS, JavaScript, Bootstrap |
-| 🛠️ Tools | Git, GitHub, VS Code |
+| 🛠️ Tools | Git, GitHub, VS Code, Google Collab, Jupyter|
